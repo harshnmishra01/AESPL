@@ -1622,7 +1622,7 @@ body.body {
   --vtc-text-pera-text-2: #CCCCD5;
   --vtc-text-pera-text-3: #5A5F6A;
   --vtc-text-text-white-text-1: #ffffff;
-  --vtc-bg-main-bg-1: #FF7A01;
+  --vtc-bg-main-bg-1: #25248C;
   --vtc-bg-main-bg-2: #FC253F;
   --vtc-bg-main-bg-3: #FD965B;
   --vtc-bg-main-bg-4: #23342E;
@@ -9907,7 +9907,7 @@ body.body {
 
 .loading {
   border: 1px solid transparent;
-  border-color: transparent #FF7A01 transparent #FF7A01;
+  border-color: transparent #25248C transparent #25248C;
   animation: rotate-loading 1.5s linear 0s infinite normal;
   transform-origin: 50% 50%;
 }
@@ -15011,7 +15011,7 @@ body.body {
   display: block;
   width: 60px;
   height: 60px;
-  background: #FF7A01;
+  background: #25248C;
   border-radius: 50%;
   animation: pulse-border 1500ms ease-out infinite;
 }
@@ -15025,7 +15025,7 @@ body.body {
   display: block;
   width: 60px;
   height: 60px;
-  background: #FF7A01;
+  background: #25248C;
   border-radius: 50%;
   transition: all 200ms;
 }
@@ -16998,7 +16998,7 @@ body.body {
   margin-top: 8px;
 }
 .header-area.header-area1 .main-menu-ex ul li .tp-submenu .homemenu-thumb .bottom-heading:hover {
-  color: #FF7A01;
+  color: #25248C;
   transition: all 0.4s;
 }
 .header-area.header-area1 .main-menu-ex ul li .tp-submenu .homemenu-thumb .bottom-text {
@@ -17100,7 +17100,7 @@ body.body {
   line-height: 16px; /* 100% */
   text-transform: capitalize;
   z-index: 1;
-  background: #FF7A01;
+  background: #25248C;
 }
 .header-area.header-area1 .main-menu-ex ul li .tp-submenu .homemenu-thumb .homemenu-btn .header-btn1 i {
   transform: rotate(-45deg);
@@ -17111,7 +17111,7 @@ body.body {
   color: #fff;
   transition: all 0.4s;
   transform: translateY(-5px);
-  background: #FF7A01;
+  background: #25248C;
 }
 .header-area.header-area1 .main-menu-ex ul li .tp-submenu .homemenu-thumb .homemenu-btn .header-btn1:hover i {
   transform: rotate(0);
