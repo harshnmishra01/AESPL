@@ -1131,7 +1131,7 @@
     display: block;
     width: 60px;
     height: 60px;
-    background: #FF7A01;
+    background: #25248C;
     border-radius: 50%;
     animation: pulse-border 1500ms ease-out infinite;
   }
@@ -1146,13 +1146,13 @@
     display: block;
     width: 60px;
     height: 60px;
-    background: #FF7A01;
+    background: #25248C;
     border-radius: 50%;
     transition: all 200ms;
   }
   
   .video-play-button:hover:after {
-    background-color: darken(#FF7A01, 10%);
+    background-color: darken(#25248C, 10%);
   }
   
   .video-play-button img {
